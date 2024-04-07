@@ -1,0 +1,32 @@
+body{
+
+  background-image: url("food.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position:relative;
+
+}
+
+table {
+  font-family: 'Allura';font-size: 26px;
+  border-collapse: collapse;
+  width: 100%;
+  }
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  font-size: 32px;
+  border: 2px solid black;
+  padding: 10px;
+  }
+
+
+.available{
+  background-color: #b3ff99;
+}
+
+.not-available{
+  background-color: #ff4d4d;
+}
